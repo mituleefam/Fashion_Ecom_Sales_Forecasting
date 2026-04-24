@@ -3,6 +3,7 @@ Chưa hoàn thiện insight (phần lớn)
 time to finish: tối nay/ mai.
 
 2nd_EDA:
-Chưa hoàn thiện eda
+Chưa viết lời dẫn, 2nd_EDA còn đang rời rạc
+Chưa hoàn thiện EDA chi tiết
 Cần chuẩn hóa sang thứ tự hợp lý.
 time to finish: tối nay/ mai.
