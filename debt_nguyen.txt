@@ -1,0 +1,8 @@
+1st_EDA:
+Chưa hoàn thiện insight (phần lớn)
+time to finish: tối nay/ mai.
+
+2nd_EDA:
+Chưa hoàn thiện eda
+Cần chuẩn hóa sang thứ tự hợp lý.
+time to finish: tối nay/ mai.
