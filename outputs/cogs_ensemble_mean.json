@@ -1,0 +1,13 @@
+{
+  "target": "cogs",
+  "model_family": "ensemble_mean",
+  "mean_mae": 433595.0146823174,
+  "std_mae": 7354.871385190199,
+  "mean_rmse": 550554.7067601708,
+  "std_rmse": 35870.44471072906,
+  "mean_r2": 0.3757011086542762,
+  "std_r2": 0.04685098255834741,
+  "folds": 2,
+  "runtime_used": "mixed",
+  "params_json": "{\"cat\": {\"depth\": 6, \"iterations\": 400, \"l2_leaf_reg\": 9.0, \"learning_rate\": 0.08, \"random_strength\": 0.0}, \"lgbm\": {\"colsample_bytree\": 0.8, \"learning_rate\": 0.03, \"max_depth\": 10, \"min_child_samples\": 120, \"n_estimators\": 600, \"num_leaves\": 95, \"reg_alpha\": 0.05, \"reg_lambda\": 0.5, \"subsample\": 0.95}, \"xgb\": {\"colsample_bytree\": 0.8, \"learning_rate\": 0.03, \"max_depth\": 4, \"min_child_weight\": 2.0, \"n_estimators\": 300, \"reg_alpha\": 0.05, \"reg_lambda\": 1.0, \"subsample\": 0.85}}"
+}

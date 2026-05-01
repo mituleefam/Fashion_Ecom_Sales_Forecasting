@@ -1,0 +1,13 @@
+{
+  "target": "revenue",
+  "model_family": "ensemble_mean",
+  "mean_mae": 444553.2964276689,
+  "std_mae": 11169.729375210969,
+  "mean_rmse": 562154.9765828949,
+  "std_rmse": 44826.8584896019,
+  "mean_r2": 0.37271802986020314,
+  "std_r2": 0.10823103768708447,
+  "folds": 2,
+  "runtime_used": "mixed",
+  "params_json": "{\"cat\": {\"depth\": 6, \"iterations\": 400, \"l2_leaf_reg\": 7.0, \"learning_rate\": 0.08, \"random_strength\": 0.0}, \"lgbm\": {\"colsample_bytree\": 1.0, \"learning_rate\": 0.03, \"max_depth\": 6, \"min_child_samples\": 40, \"n_estimators\": 1000, \"num_leaves\": 95, \"reg_alpha\": 0.5, \"reg_lambda\": 0.0, \"subsample\": 0.95}, \"xgb\": {\"colsample_bytree\": 0.8, \"learning_rate\": 0.08, \"max_depth\": 3, \"min_child_weight\": 1.0, \"n_estimators\": 800, \"reg_alpha\": 0.0, \"reg_lambda\": 2.0, \"subsample\": 0.95}}"
+}

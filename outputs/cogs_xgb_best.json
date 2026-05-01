@@ -1,0 +1,14 @@
+{
+  "target": "cogs",
+  "model_family": "xgb",
+  "mean_mae": 421196.67616666673,
+  "std_mae": 18102.818666666688,
+  "mean_rmse": 542387.1322162885,
+  "std_rmse": 46562.05484828999,
+  "mean_r2": 0.3973522376979414,
+  "std_r2": 0.020218362914057597,
+  "folds": 2,
+  "runtime_used": "gpu",
+  "params_json": "{\"colsample_bytree\": 0.8, \"learning_rate\": 0.03, \"max_depth\": 4, \"min_child_weight\": 2.0, \"n_estimators\": 300, \"reg_alpha\": 0.05, \"reg_lambda\": 1.0, \"subsample\": 0.85}",
+  "trial": 7
+}

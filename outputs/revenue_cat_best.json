@@ -1,0 +1,14 @@
+{
+  "target": "revenue",
+  "model_family": "cat",
+  "mean_mae": 466651.0736833172,
+  "std_mae": 38550.78777166497,
+  "mean_rmse": 590722.983481457,
+  "std_rmse": 65071.04370237276,
+  "mean_r2": 0.3173690643226923,
+  "std_r2": 0.07674133174525999,
+  "folds": 2,
+  "runtime_used": "gpu",
+  "params_json": "{\"depth\": 6, \"iterations\": 400, \"l2_leaf_reg\": 7.0, \"learning_rate\": 0.08, \"random_strength\": 0.0}",
+  "trial": 3
+}

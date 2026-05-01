@@ -1,0 +1,14 @@
+{
+  "target": "revenue",
+  "model_family": "xgb",
+  "mean_mae": 454522.83941666665,
+  "std_mae": 14885.271750000014,
+  "mean_rmse": 576075.5904958012,
+  "std_rmse": 28915.914230387192,
+  "mean_r2": 0.33078125048444673,
+  "std_r2": 0.15356623524225976,
+  "folds": 2,
+  "runtime_used": "gpu",
+  "params_json": "{\"colsample_bytree\": 0.8, \"learning_rate\": 0.08, \"max_depth\": 3, \"min_child_weight\": 1.0, \"n_estimators\": 800, \"reg_alpha\": 0.0, \"reg_lambda\": 2.0, \"subsample\": 0.95}",
+  "trial": 5
+}

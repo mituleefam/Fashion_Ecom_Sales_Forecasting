@@ -1,0 +1,14 @@
+{
+  "target": "cogs",
+  "model_family": "lgbm",
+  "mean_mae": 452025.3442914778,
+  "std_mae": 20643.899670429702,
+  "mean_rmse": 563263.5418224713,
+  "std_rmse": 5262.35840763466,
+  "mean_r2": 0.33419500061651775,
+  "std_r2": 0.12306960541623813,
+  "folds": 2,
+  "runtime_used": "gpu",
+  "params_json": "{\"colsample_bytree\": 0.8, \"learning_rate\": 0.03, \"max_depth\": 10, \"min_child_samples\": 120, \"n_estimators\": 600, \"num_leaves\": 95, \"reg_alpha\": 0.05, \"reg_lambda\": 0.5, \"subsample\": 0.95}",
+  "trial": 11
+}

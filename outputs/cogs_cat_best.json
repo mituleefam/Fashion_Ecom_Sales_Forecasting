@@ -1,0 +1,14 @@
+{
+  "target": "cogs",
+  "model_family": "cat",
+  "mean_mae": 438092.51065117586,
+  "std_mae": 23007.630585839623,
+  "mean_rmse": 567244.1137538814,
+  "std_rmse": 54211.332184146944,
+  "mean_r2": 0.34232689712186454,
+  "std_r2": 0.009176609796036794,
+  "folds": 2,
+  "runtime_used": "gpu",
+  "params_json": "{\"depth\": 6, \"iterations\": 400, \"l2_leaf_reg\": 9.0, \"learning_rate\": 0.08, \"random_strength\": 0.0}",
+  "trial": 8
+}

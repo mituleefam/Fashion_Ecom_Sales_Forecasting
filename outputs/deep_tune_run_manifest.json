@@ -1,0 +1,31 @@
+{
+  "best_single_family": {
+    "revenue": "xgb",
+    "cogs": "xgb"
+  },
+  "best_final_choice": {
+    "revenue": "ensemble_mean",
+    "cogs": "xgb"
+  },
+  "cpu_threads": 12,
+  "runtime_choices": {
+    "lgbm": "gpu",
+    "xgb": "gpu",
+    "cat": "gpu"
+  },
+  "search_iters": {
+    "lgbm": 12,
+    "xgb": 12,
+    "cat": 12
+  },
+  "folds": 2,
+  "horizon": 60,
+  "min_train_rows": 730,
+  "save_intermediate": true,
+  "save_models": true,
+  "save_alt_submissions": false,
+  "data_file": "D:\\CODEPY\\Fashion_Ecom_Sales_Forecasting\\outputs\\daily_features_tuned_best.csv",
+  "revenue_features": 82,
+  "cogs_features": 82,
+  "known_future_features": 35
+}
