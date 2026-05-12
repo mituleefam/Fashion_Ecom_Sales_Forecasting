@@ -1,6 +1,6 @@
 # Fashion E-commerce Sales Forecasting
 
-This repository contains the solution by team **EntropyZero** for the VinUni Datathon, focusing on Fashion E-commerce Sales Forecasting. The objective is to forecast future Revenue and COGS (Cost of Goods Sold) based on historical sales, inventory, and customer data.
+This repository contains the solution for the VinUni Datathon, focusing on Fashion E-commerce Sales Forecasting. The objective is to forecast future Revenue and COGS (Cost of Goods Sold) based on historical sales, inventory, and customer data.
 
 ## 📂 Project Structure
 
